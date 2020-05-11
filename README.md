@@ -1,4 +1,4 @@
-#Practical PHP Course Project
+# Practical PHP Course Project
 This website is a dynamic site utilizing PHP to create a restaurant test site.
 This course was done on Udemy and was presented by Brad Hussey.
 
